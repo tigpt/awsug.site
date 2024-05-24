@@ -11,18 +11,3 @@ provider "aws" {
     }
   }
 }
-
-provider "aws" {
-  profile = "tig-awsug"
-  alias   = "us-east-1"
-  region  = "us-east-1"
-  default_tags {
-    tags = {
-      terraform     = "true"
-      region        = "us-east-1"
-      business-unit = "awsug"
-      stage         = terraform.workspace
-      repository    = "https://github.com/tigpt/awsug.site"
-    }
-  }
-}
