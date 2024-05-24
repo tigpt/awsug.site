@@ -13,15 +13,3 @@ module "route53_awsug_zones" {
     }
   }
 }
-
-module "route53_awsug_records" {
-  source  = "terraform-aws-modules/route53/aws//modules/records"
-  version = "~> 2.0"
-
-  zone_name = keys(module.route53_awsug_zones.route53_zone_zone_id)[0]
-
-  records = [
-  ]
-
-  depends_on = [module.route53_awsug_zones]
-}
