@@ -1,7 +1,6 @@
 locals {
   usergroup = {
     lisbon = {
-      city = "lisbon"
       nameservers = [
         "ns-269.awsdns-33.com.",
         "ns-1702.awsdns-20.co.uk.",

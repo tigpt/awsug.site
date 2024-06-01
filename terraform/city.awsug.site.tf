@@ -7,7 +7,7 @@ module "route53_awsug_records" {
 
   records = [
     {
-      name    = each.value.city
+      name    = each.key
       type    = "NS"
       ttl     = 172800
       records = each.value.nameservers
