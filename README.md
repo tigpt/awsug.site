@@ -36,4 +36,4 @@ Check the Lisbon website repo, there you have terraform and documentation on how
 
 https://github.com/tigpt/lisbon.awsug.site
 
-Any questions, feedback, or simpley want to talk with me? just contact me, by [email](mailto:mail@tig.pt) or on [LinkedIn](https://www.linkedin.com/in/tigpt/).
+Any questions, feedback, or just want to talk with me? just contact me, by [email](mailto:mail@tig.pt) or on [LinkedIn](https://www.linkedin.com/in/tigpt/).
