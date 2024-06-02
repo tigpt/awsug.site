@@ -8,7 +8,7 @@ You are in the right place. Here you can make a Pull Request and create domain f
 Check https://lisbon.awsug.site as an example.
 
 # What can I do with this subdomain?
-Everything, its yours, you can configure it for your website, or multiple we websites. Once the subdomain of your city is pointing to your DNS server or AWS Hostzone, you can configure your web applications there, your backends, your email serves, everything like a normal top domain.
+Everything, its yours, you can configure it for your website, or multiple websites. Once the subdomain of your city is pointing to your DNS server or AWS Hostzone, you can configure your web applications there, your backends, your email serves, everything like a normal top domain.
 
 # How to do it?
 
