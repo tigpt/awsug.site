@@ -18,10 +18,10 @@ Check the Lisbon AWS User Group example
 ```
 lisbon = {
     nameservers = [
-    "ns-269.awsdns-33.com.",
-    "ns-1702.awsdns-20.co.uk.",
-    "ns-1393.awsdns-46.org.",
-    "ns-595.awsdns-10.net."
+        "ns-269.awsdns-33.com.",
+        "ns-1702.awsdns-20.co.uk.",
+        "ns-1393.awsdns-46.org.",
+        "ns-595.awsdns-10.net."
     ],
     validation_email   = "mail@tig.pt"
     meetup_com_website = "https://www.meetup.com/aws-user-group-lisbon/"
