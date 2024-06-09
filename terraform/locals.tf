@@ -1,6 +1,6 @@
 locals {
   usergroup = {
-    castelo_branco = {
+    castelo-branco = {
       nameservers = [
         "ns-975.awsdns-57.net.",
         "ns-1146.awsdns-15.org.",
