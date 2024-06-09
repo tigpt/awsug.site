@@ -12,7 +12,7 @@ Everything, its yours, you can configure it for your website, or multiple we web
 
 # How to do it?
 
-First create an public HostZone in AWS Route53 with the name of your city like "lisbon.awsug.site" and save the NS records that AWS Route53 gives you.
+First create a public Hosted zone in AWS Route53 with the name of your city like "lisbon.awsug.site" and store the NS records for later.
 
 Make a Pull Request to this repo with your city name and your DNS Nameservers, so we can point it to you. To make the process more secure and avoid someone try to hijack some other city identity, we require you to provide some extra information for us to validate you are how you say you are. It is very simple!
 
