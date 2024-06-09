@@ -1,5 +1,15 @@
 locals {
   usergroup = {
+    castelo-branco = {
+      nameservers = [
+        "ns-975.awsdns-57.net.",
+        "ns-1146.awsdns-15.org.",
+        "ns-158.awsdns-19.com.",
+        "ns-1724.awsdns-23.co.uk.",
+      ],
+      validation_email   = "office+aws-ug-cb@martinmueller.dev"
+      meetup_com_website = "https://www.meetup.com/aws-user-group-castelo-branco/"
+    },
     lisbon = {
       nameservers = [
         "ns-269.awsdns-33.com.",
