@@ -36,6 +36,6 @@ Now go to https://github.com/tigpt/awsug.site/blob/main/terraform/locals.tf and 
 
 Check the Lisbon website repo, there you have terraform and documentation on how to do it.
 
-https://github.com/tigpt/lisbon.awsug.site
+[https://github.com/tigpt/lisbon.awsug.site](https://github.com/aws-ug-portugal/lisbon.awsug.site)
 
 Any questions, feedback, or just want to talk with me? You can contact me, by [email](mailto:mail@tig.pt) or on [LinkedIn](https://www.linkedin.com/in/tigpt/).
